@@ -2,6 +2,8 @@
 test
 Voici une **simulation interactive complète et autonome** d’une porte logique **OU exclusif (XOR)**.
 
+commande terminal: python -m http.server
+
 Elle fonctionne directement dans votre navigateur : copiez le code ci-dessous dans un fichier `xor.html`, ouvrez-le, et cliquez sur les boutons pour basculer les entrées **A** et **B**. La sortie, les lignes de signal, le symbole de la porte et la table de vérité se mettent à jour en temps réel.
 
 ```html
